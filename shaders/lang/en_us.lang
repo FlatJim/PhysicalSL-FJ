@@ -144,6 +144,7 @@ option.DOFStrength=DoF Strength
 option.MotionBlur=Motion Blur
 option.MotionBlurStrength=Motion Blur Strength
 option.Bloom=Bloom
+option.AnamorphicBloom=Anamorphic Bloom
 option.BloomStrength=Bloom Strength
 option.LensFlare=Lens Flare
 option.LensFlareStrength=Lens Flare strength
