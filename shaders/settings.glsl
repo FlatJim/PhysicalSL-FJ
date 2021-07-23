@@ -69,6 +69,7 @@ const int shadowMapResolution = 2048; //[1024 2048 3072 4096 8192]
 
 #define AutoExposure
 #define Bloom
+#define AnamorphicBloom
 
 //#define ColorGrading
 //#define DirtyLens
