@@ -174,12 +174,6 @@ option.sunPathRotation=Sun Path Rotation
 option.SubsurfaceScattering=Subsurface Scattering
 option.NoGlassShadow=Biodome mode
 
-value.shadowMapResolution.1024=Low
-value.shadowMapResolution.2048=Medium
-value.shadowMapResolution.3072=High
-value.shadowMapResolution.4096=Very High
-value.shadowMapResolution.8192=Ultra High
-
 #Color
 option.LightMR=Red
 option.LightMG=Green
