@@ -172,6 +172,7 @@ option.ShadowColor=Colored Shadow
 option.ShadowFilter=Shadow Filtering
 option.sunPathRotation=Sun Path Rotation
 option.SubsurfaceScattering=Subsurface Scattering
+option.NoGlassShadow=Biodome mode
 
 value.shadowMapResolution.1024=Low
 value.shadowMapResolution.2048=Medium

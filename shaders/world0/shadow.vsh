@@ -52,6 +52,9 @@ void main(){
 	if (mc_Entity.x == 79) mat = 1.0;
 	if (mc_Entity.x == 8) mat = 2.0;
 	if (mc_Entity.x == 51) mat = 3.0;
+	#ifdef NoGlassShadow
+	if (mc_Entity.x == 108) mat = 2;
+	#endif
 
 	#ifdef WorldCurvature
 	position.y -= worldCurvature(position.xz);

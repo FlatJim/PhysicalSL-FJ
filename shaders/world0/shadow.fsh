@@ -18,6 +18,7 @@ uniform sampler2D tex;
 void main(){
 	#if MC_VERSION >= 11300
 	if (blockEntityId == 138) discard;
+	if (mat == 2) discard;
 	#endif
 
 	vec4 albedo = texture2D(tex,texcoord.xy);

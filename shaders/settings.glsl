@@ -42,6 +42,7 @@ const int shadowMapResolution = 2048; //[1024 2048 3072 4096 8192]
 #define ShadowFilter
 #define SpecularFormat 0 //[0 1 2]
 #define SubsurfaceScattering
+//#define NoGlassShadow
 
 #define WaterNormals 1 //[0 1 2]
 #define WaterParallax
